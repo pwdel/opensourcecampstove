@@ -16,8 +16,6 @@
 
 ![02](/assets/images/02.png)
 
-![02](/assets/images/02.png)
-
 ![03](/assets/images/03.png)
 
 ![04](/assets/images/04.png)
