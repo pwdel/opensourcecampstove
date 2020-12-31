@@ -1,6 +1,10 @@
 module pullElbow() { 
     import("part_files_stl/pullelbow.stl");
 }
+module halfinchEmt() {
+    import("part_files_stl/halfinchEmt.stl");
+}
+
 // Document Info
 // Units in mm
 
@@ -148,3 +152,25 @@ color("Gainsboro")
 rotate(90,[0,0,1])
 translate([cap_h*0.1,-cap_w/2,cap_h-cap_w-cap_lip])
     pullElbow();
+
+// Legs
+
+color("Gainsboro")
+translate([0,cap_h*0.1,0])
+rotate(45,[0,1,0])
+    halfinchEmt();
+
+color("Gainsboro")
+translate([cap_w,cap_h*0.1,0])
+rotate(-45,[0,1,0])
+    halfinchEmt();
+    
+color("Gainsboro")
+translate([0,cap_h*0.9,0])
+rotate(45,[0,1,0])
+    halfinchEmt();
+
+color("Gainsboro")
+translate([cap_w,cap_h*0.9,0])
+rotate(-45,[0,1,0])
+    halfinchEmt();
