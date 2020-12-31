@@ -25,3 +25,14 @@
 ### CADesign Improvements
 
 ![06](/assets/images/06.png)
+
+
+
+### Parts
+
+| Part                                                         | Store   | Price |
+| ------------------------------------------------------------ | ------- | ----- |
+| [IMPERIAL 12-in x 8-in Galvanized Steel Blind End Cap](https://www.lowes.com/pd/IMPERIAL-12-in-x-8-in-Galvanized-Steel-Blind-End-Cap/1000237449) | Lowe's  | $5.78 |
+| [SIGMA Proconnect 90 Degree Pull Eblow](https://www.menards.com/main/electrical/conduit-conduit-fittings-raceways/conduit-fittings/sigma-proconnex-trade-conduit-to-conduit-pull-elbow/46077m/p-1500273177717-c-9538.htm?tid=1594404088676465066&ipos=7) | Menards | $2.73 |
+|                                                              |         |       |
+
